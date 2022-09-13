@@ -1,8 +1,8 @@
 # frozen_string_literal: true
 
-require "app_prototype/types"
+require "photos/types"
 
-module AppPrototype
+module Photos
   class Settings < Hanami::Settings
     # Database
     setting :database_url, constructor: Types::String

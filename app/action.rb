@@ -1,7 +1,7 @@
 # auto_register: false
 # frozen_string_literal: true
 
-module AppPrototype
+module Photos
   class Action < Hanami::Action
   end
 end

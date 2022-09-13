@@ -2,7 +2,7 @@
 
 require "dry/types"
 
-module AppPrototype
+module Photos
   module Types
     include Dry.Types
   end
