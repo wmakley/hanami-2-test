@@ -2,6 +2,8 @@
 
 source "https://rubygems.org/"
 
+ruby "3.1.2"
+
 # Application framework
 gem "hanami", "~> 2.0.0.alpha", github: "hanami/hanami"
 gem "hanami-cli", "~> 2.0.0.alpha", github: "hanami/cli"
