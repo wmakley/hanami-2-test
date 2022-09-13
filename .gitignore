@@ -5,3 +5,11 @@ log/
 /spec/examples.txt
 .idea
 db
+
+# OS cruft
+.DS_Store
+Thumbs.db
+._*
+~*
+*~
+*.swp
